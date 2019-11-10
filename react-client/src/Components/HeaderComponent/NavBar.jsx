@@ -8,6 +8,7 @@ class NavBar extends Component {
           <li className="navButton"><Link to="">Home</Link></li>
         </ul>
       </header>
+      
     )
   }
 }
