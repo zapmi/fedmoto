@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-// import bigSuzi from '../Components/Images/bigSuzi';
-
 
 class HomePage extends Component {
   render() {

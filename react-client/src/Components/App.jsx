@@ -13,7 +13,6 @@ class App extends Component {
         <div>
           <NavBar />
           <div>
-            {/* <div id="bigSuzi"> <img src={bigSuzi} /> */}
             <div id="bigSuzi"> <img src={bigSuzi} class="img-fluid" width="1070" height="713.73" />
             </div>
 
