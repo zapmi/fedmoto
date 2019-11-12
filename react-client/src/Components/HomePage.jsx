@@ -1,13 +1,18 @@
 import React, { Component } from 'react';
-// import image from './Images/bigSuzi';
+// import bigSuzi from '../Components/Images/bigSuzi';
+
+
 class HomePage extends Component {
   render() {
+    
     return (
       <div>
-        Main-Page
-        {/* <img src={} alt="bogsuz"/>; */}
-        {/* <img src={bigSuzi} alt="BigSuziBike" />; */}
+        <p>Main-Page</p>
       </div>
+      
+
+      
+      
     )
   }
 }
