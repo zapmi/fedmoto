@@ -5,6 +5,8 @@ import HomePage from './HomePage';
 import bigSuzi from './Images/bigSuz.jpg';
 import NavBar from './HeaderComponent/NavBar';
 import Footer from './FooterComponent/Footer';
+import SideNav from './HeaderComponent/SideNav';
+
 
 class App extends Component {
   render() {
@@ -12,66 +14,7 @@ class App extends Component {
       <Router>
         <div>
           <NavBar />
-
-
-
-          <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="d-flex flex-grow-1">
-            <span class="w-100 d-lg-none d-block">
-                </span>
-            <a class="navbar-brand d-none d-lg-inline-block" href="#">
-                <h2>Mike Zapata</h2>
-            </a>
-
-            <div class="w-100 text-right">
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-            </div>
-        </div>
-        <div class="collapse navbar-collapse flex-grow-1 text-right" id="myNavbar">
-            <ul class="navbar-nav ml-auto flex-nowrap">
-                <li class="nav-item">
-                    <a href="index.html" class="nav-link m-2 menu-item nav-active">DO IT YOURSELF</a>
-                </li>
-                <li class="nav-item">
-                    <a href="portfolio.html" class="nav-link m-2 menu-item">BIKES</a>
-                </li>
-                <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">SHOP +</a>
-                </li>
-                <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">SERVICE</a>
-                </li>
-                <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">STORAGE</a>
-                </li>
-                <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">EVENTS</a>
-                </li>
-                <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">MEDIA</a>
-                </li>
-                <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">CAREERS</a>
-                </li>
-                <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">SIGN IN</a>
-                </li>
-                <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">INSTAGRAM</a>
-                </li>
-                <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">CONTACT</a>
-                </li>
-
-            </ul>
-        </div>
-    </nav>
-
-
-
-
+          <SideNav />
 
           <div>
             <div id="bigSuzi"> <img src={bigSuzi} class="img-fluid" width="1070" height="713.73" />
