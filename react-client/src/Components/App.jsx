@@ -32,13 +32,37 @@ class App extends Component {
         <div class="collapse navbar-collapse flex-grow-1 text-right" id="myNavbar">
             <ul class="navbar-nav ml-auto flex-nowrap">
                 <li class="nav-item">
-                    <a href="index.html" class="nav-link m-2 menu-item nav-active">About</a>
+                    <a href="index.html" class="nav-link m-2 menu-item nav-active">DO IT YOURSELF</a>
                 </li>
                 <li class="nav-item">
-                    <a href="portfolio.html" class="nav-link m-2 menu-item">Portfolio</a>
+                    <a href="portfolio.html" class="nav-link m-2 menu-item">BIKES</a>
                 </li>
                 <li class="nav-item">
-                    <a href="contact.html" class="nav-link m-2 menu-item">Contact</a>
+                    <a href="contact.html" class="nav-link m-2 menu-item">SHOP +</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link m-2 menu-item">SERVICE</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link m-2 menu-item">STORAGE</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link m-2 menu-item">EVENTS</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link m-2 menu-item">MEDIA</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link m-2 menu-item">CAREERS</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link m-2 menu-item">SIGN IN</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link m-2 menu-item">INSTAGRAM</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link m-2 menu-item">CONTACT</a>
                 </li>
 
             </ul>
