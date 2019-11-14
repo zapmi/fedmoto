@@ -16,7 +16,7 @@ class App extends Component {
           <SideNav />
 
           <div>
-            <div id="bigSuzi"> <img src={bigSuzi} class="img-fluid" width="1070" height="713.73" />
+            <div id="bigSuzi"> <img src={bigSuzi} class="img-fluid" width="1310" height="873.77" />
             </div>
 
             <Route name="home" exact path="/" component={HomePage} />
@@ -30,4 +30,4 @@ class App extends Component {
     )
   }
 }
-export default App;
+export default App;``
