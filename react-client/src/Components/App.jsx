@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import { browserHistory } from 'react-router';
-import HomePage from './HomePage';
-import bigSuzi from './Images/bigSuz.jpg';
+// import HomePage from './HomePage';
+// import bigSuzi from './Images/bigSuz.jpg';
 import NavBar from './HeaderComponent/NavBar';
 import Footer from './FooterComponent/Footer';
 import SideNav from './HeaderComponent/SideNav';
@@ -15,13 +15,8 @@ class App extends Component {
           <NavBar />
           <SideNav />
 
-          <div>
-            <div id="bigSuzi"> <img src={bigSuzi} class="img-fluid" width="1310" height="873.77" />
-            </div>
+          {/* <Route name="home" exact path="/" component={HomePage} /> */}
 
-            <Route name="home" exact path="/" component={HomePage} />
-
-          </div>
 
           <Footer />
 
@@ -30,4 +25,4 @@ class App extends Component {
     )
   }
 }
-export default App;``
+export default App;

@@ -34,13 +34,11 @@ footer {
   position: fixed;
 }
 
-#bigSuzi {
-  padding: 50px 140px;
-  /* width: 50%; */
-  /* height: auto; */
-}
-
 #fedlogo {
   width: 70px;
   height: auto;
+}
+
+.nav-item, .nav-item-logo {
+  list-style-type:none;
 }
