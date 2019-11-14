@@ -7,7 +7,6 @@ import NavBar from './HeaderComponent/NavBar';
 import Footer from './FooterComponent/Footer';
 import SideNav from './HeaderComponent/SideNav';
 
-
 class App extends Component {
   render() {
     return (
