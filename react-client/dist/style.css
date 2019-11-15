@@ -14,31 +14,53 @@ header {
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: futura;
+  letter-spacing: 0.2em;
 }
 
 .navButton {
   color: ghostwhite;
-  /* text-align: center; */
+  text-align: center;
 }
 
 footer {
   display: block;
   text-align: center;
+  font-size: 12px;
   left: 0;
   bottom: 0;
   width: 100%;
   height: 50px;
-  background-color: red;
-  color: blue;
+  background-color: white;
+  color: gray;
   position: fixed;
 }
 
+/* #footerText2 {
+margin-right: 220px;  
+} */
+
 #fedlogo {
-  width: 70px;
+  margin-left: 40px;
+  padding: 25px 0;
   height: auto;
+  width: 70px;
+}
+
+.nav-link {
+  color: #808080;
+  font-family: futura;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  margin-left: 40px!important;
+  padding: 2px 0 4px;
+  
 }
 
 .nav-item, .nav-item-logo {
-  list-style-type:none;
+  list-style-type: none;
+}
+
+#bigSuzipic {
+  padding: 25px 0 25px 74px;
 }

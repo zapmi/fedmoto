@@ -21,6 +21,9 @@ class SideNav extends Component {
                                 <a href="bikes.html" class="nav-link m-2 menu-item">BIKES</a>
                             </li>
                             <li class="nav-item">
+                                <a href="buildInquiry.html" class="nav-link m-2 menu-item">BUILD INQUIRY</a>
+                            </li>
+                            <li class="nav-item">
                                 <a href="shop.html" class="nav-link m-2 menu-item">SHOP +</a>
                             </li>
                             <li class="nav-item">
@@ -41,21 +44,43 @@ class SideNav extends Component {
                             <li class="nav-item">
                                 <a href="signin.html" class="nav-link m-2 menu-item">SIGN IN</a>
                             </li>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            
+
+                            
                             <li class="nav-item">
                                 <a href="https://www.instagram.com/federalmoto/" target="_blank" class="nav-link m-2 menu-item">INSTAGRAM</a>
                             </li>
                             <li class="nav-item">
-                                <a href="contact.html" class="nav-link m-2 menu-item">CONTACT</a>
+                                <a href="contact.html" class="nav-link menu-item">CONTACT</a>
                             </li>
                         </ul>
                     </div>
                 </div>
 
 
-                <div class="col-10">
+                <div class="col-10" id="bigSuzipic">
 
-                    <img src={bigSuzi} class="img-fluid" width="1310" height="873.77" alt="bigSuzi" />
-                    <img src={bigSuzi} class="img-fluid" width="1310" height="873.77" alt="bigSuzi" />
+                    <img src={bigSuzi} class="img-fluid" width="1070" height="auto" alt="bigSuzi" />
+                    <img src={bigSuzi} class="img-fluid" width="1070" height="auto" alt="bigSuzi" />
 
                 </div>
 

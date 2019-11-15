@@ -5,7 +5,7 @@ class HomePage extends Component {
     
     return (
       <div>
-        <p>Main-Page</p>
+        {/* <p>Main-Page</p> */}
       </div>
       
 
