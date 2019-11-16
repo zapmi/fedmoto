@@ -45,6 +45,9 @@ class SideNav extends Component {
                             <li class="nav-item">
                                 <a href="signin.html" class="nav-link m-2 menu-item">SIGN IN</a>
                             </li>
+                            <li class="nav-item">
+                                <a href="https://www.instagram.com/federalmoto/" target="_blank" class="nav-link m-2 menu-item">INSTAGRAM</a>
+                            </li>
                             {/* <br></br>
                             <br></br>
                             <br></br>
