@@ -64,3 +64,13 @@ margin-right: 220px;
 #bigSuzipic {
   padding: 25px 0 25px 74px;
 }
+
+.col-sm-2 {
+  position: fixed;
+  /* margin-left: 60px; */
+  /* padding-left: 100px; */
+}
+
+.col-sm-10 {
+margin-left: 245px;
+}
