@@ -73,7 +73,7 @@ margin-right: 220px;
 
 #fedlogo {
   margin-left: 40px;
-  padding: 25px 0;
+  padding: 13px 0 29px 0;
   height: auto;
   width: 70px;
 }
@@ -84,21 +84,27 @@ margin-right: 220px;
   font-size: 12px;
   letter-spacing: 0.2em;
   margin-left: 40px!important;
-  padding: 2px 0 4px;
+  padding: 2px 0 1px;
   
 }
+
+/* .nav-item {
+  padding: 10px 0 0 0 ;
+} */
 
 .nav-item, .nav-item-logo {
   list-style-type: none;
 }
 
 #bigSuzipic {
-  padding: 25px 0 25px 74px;
+  padding: 13px 0 25px 60px;
 }
 
 .col-sm-2 {
   position: fixed;
-  /* margin-left: 60px; */
+  /* padding-right: 10px!important; */
+  /* margin-right: 60px; */
+  /* margin-left: -20px; */
   /* padding-left: 100px; */
 }
 

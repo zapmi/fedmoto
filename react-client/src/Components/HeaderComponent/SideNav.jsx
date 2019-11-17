@@ -9,12 +9,13 @@ class SideNav extends Component {
                 <div class="col-sm-2">
                     {/* <div class="affix"> */}
                         {/* <div id="slide-out" class="side-nav sn-bg-4 fixed" > */}
-                        <ul>
-                            <li class="nav-item-logo">
+                        {/* <ul> */}
+                            {/* <li class="nav-item-logo"> */}
                                 <div>
                                     <a href="#" ><img src="https://images.squarespace-cdn.com/content/539b5adbe4b0dc27b961c927/1568922341756-C62F6BQPUW065CIQ69WN/federallogo.jpg?content-type=image%2Fjpeg" id="fedlogo" class="img-fluid flex-center"></img></a>
                                 </div>
-                            </li>
+                                
+                            {/* </li> */}
                             <li class="nav-item">
                                 <a href="doItYourself.html" class="nav-link m-2 menu-item nav-active">DO IT YOURSELF</a>
                             </li>
@@ -45,30 +46,11 @@ class SideNav extends Component {
                             <li class="nav-item">
                                 <a href="signin.html" class="nav-link m-2 menu-item">SIGN IN</a>
                             </li>
-                            <li class="nav-item">
+                            {/* <li class="nav-item">
                                 <a href="https://www.instagram.com/federalmoto/" target="_blank" class="nav-link m-2 menu-item">INSTAGRAM</a>
-                            </li>
+                            </li> */}
                             {/* <br></br>
                             <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-
-
 
                             <li class="nav-item">
                                 <a href="https://www.instagram.com/federalmoto/" target="_blank" class="nav-link m-2 menu-item">INSTAGRAM</a>
@@ -76,7 +58,7 @@ class SideNav extends Component {
                             <li class="nav-item">
                                 <a href="contact.html" class="nav-link menu-item">CONTACT</a>
                             </li> */}
-                        </ul>
+                        {/* </ul> */}
                         {/* </div> */}
                     {/* </div> */}
                 </div>
