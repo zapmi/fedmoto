@@ -1,0 +1,23 @@
+.alert-warning {
+  background-color: silver;
+  border: none;
+  color: ghostwhite;
+  font-family: Helvetica;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  height: 36px;
+  text-align: center;
+  width: 100%;
+}
+
+.close {
+  color: ghostwhite;
+  font-size: 12px;
+  font-weight: lighter;
+}
+
+span {
+  background-color: gray;
+  padding: 10px;
+  height: 37px;
+}

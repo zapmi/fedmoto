@@ -1,0 +1,23 @@
+.col-sm-2 {
+    position: fixed;
+}
+
+#fedlogo {
+    margin-left: 40px;
+    padding: 13px 0 29px 0;
+    height: auto;
+    width: 70px;
+}
+
+.nav-link {
+    color: #808080;
+    font-family: futura;
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    margin-left: 40px!important;
+    padding: 2px 0 1px;
+}
+
+.nav-item, .nav-item-logo {
+    list-style-type: none;
+}

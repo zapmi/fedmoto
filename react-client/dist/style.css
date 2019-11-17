@@ -1,114 +1,17 @@
-header {
-  /* display: block; */
-  /* background-color: silver; */
-  /* text-decoration: none; */
-  width: 100%;
-  /* height: 30px; */
-  /* color: white; */
-  /* text-align: center; */
-}
-
-.alert-warning {
-  background-color: silver;
-  border: none;
-  color: ghostwhite;
-  font-family: Helvetica;
-  font-size: 12px;
-  letter-spacing: 0.1em;
-  height: 36px;
-  text-align: center;
-  /* text-decoration: none; */
-  width: 100%;
-}
-
 a:hover, a:visited, a:link, a:active {
   text-decoration: none;
 }
-.close {
-  /* background-color: blue; */
-  color: ghostwhite;
-  font-size: 12px;
-  font-weight: lighter;
-}
-
-span {
-  background-color: gray;
-  padding: 10px;
-  height: 37px;
-}
-
-
-/* #headerButtons {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-} */
 
 body {
   font-family: futura;
   letter-spacing: 0.2em;
 }
 
-.navButton {
-  color: ghostwhite;
-  text-align: center;
-}
 
-footer {
-  display: block;
-  text-align: center;
-  font-size: 12px;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 50px;
-  background-color: white;
-  color: gray;
-  position: fixed;
-}
 
-/* #footerText2 {
-margin-right: 220px;  
-} */
 
-#fedlogo {
-  margin-left: 40px;
-  padding: 13px 0 29px 0;
-  height: auto;
-  width: 70px;
-}
 
-.nav-link {
-  color: #808080;
-  font-family: futura;
-  font-size: 12px;
-  letter-spacing: 0.2em;
-  margin-left: 40px!important;
-  padding: 2px 0 1px;
-  
-}
 
-/* .nav-item {
-  padding: 10px 0 0 0 ;
-} */
 
-.nav-item, .nav-item-logo {
-  list-style-type: none;
-}
 
-#bigSuzipic {
-  padding: 13px 0 25px 60px;
-}
-
-.col-sm-2 {
-  position: fixed;
-  /* padding-right: 10px!important; */
-  /* margin-right: 60px; */
-  /* margin-left: -20px; */
-  /* padding-left: 100px; */
-}
-
-.col-sm-10 {
-margin-left: 260px;
-}
 
