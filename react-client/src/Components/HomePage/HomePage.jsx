@@ -9,8 +9,8 @@ class HomePage extends Component {
         return (
             <div class="col-sm-10" id="bigSuzipic">
 
-                <img src={bigSuzi} class="img-fluid" width="1070" height="auto" alt="bigSuzi" />
-                <img src={bigSuzi} class="img-fluid" width="1070" height="auto" alt="bigSuzi" />
+                <img src={bigSuzi} class="img-fluid" width="1309" height="auto" alt="bigSuzi" />
+                <img src={bigSuzi} class="img-fluid" width="1309" height="auto" alt="bigSuzi" />
 
             </div>
 
