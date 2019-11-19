@@ -9,7 +9,7 @@ class HomePage extends Component {
         return (
             <div class="col-sm-10" id="bigSuzipic">
 
-                <img src={bigSuzi} class="img-fluid" width="1309" height="auto" alt="bigSuzi" />
+                <img src={bigSuzi} class="img-fluid" alt="bigSuzi" />
                 <div>
                     <button class="bigSuziButton">CHECK OUT FED-014 "BIG SUZIE"</button>
                 </div>
@@ -19,7 +19,7 @@ class HomePage extends Component {
                 </div>
                 <hr></hr>
 
-                <img src={bigSuzi} class="img-fluid" width="1309" height="auto" alt="bigSuzi" />
+                <img src={bigSuzi} class="img-fluid" alt="bigSuzi" />
 
             </div>
 
