@@ -10,9 +10,15 @@ class HomePage extends Component {
             <div class="col-sm-10" id="bigSuzipic">
 
                 <img src={bigSuzi} class="img-fluid" width="1309" height="auto" alt="bigSuzi" />
+                <div>
+                    <button class="bigSuziButton">CHECK OUT FED-014 "BIG SUZIE"</button>
+                </div>
+
                 <img src={bigSuzi} class="img-fluid" width="1309" height="auto" alt="bigSuzi" />
 
             </div>
+
+
 
 
 

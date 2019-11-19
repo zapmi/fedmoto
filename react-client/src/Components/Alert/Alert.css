@@ -1,5 +1,6 @@
 .alert-warning {
   background-color: silver;
+  opacity: 75%;
   border: none;
   color: ghostwhite;
   font-family: Helvetica;
@@ -8,8 +9,10 @@
   letter-spacing: 0.1em;
   height: 36px;
   padding: 10px;
+  position: fixed;
   text-align: center;
   width: 100%;
+  z-index: 999;
 }
 
 .close {

@@ -3,5 +3,18 @@
 }
 
 #bigSuzipic {
+    margin-top: 52px;
     padding: 13px 0 25px 45px;
+}
+
+.bigSuziButton {
+    background-color: #e4b94d;
+    border-color: #e4b94d;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    margin: 35px 0 35px 520px;
+    padding: 15px 22px;
+    text-align: center;
+    /* text-decoration: none; */
 }

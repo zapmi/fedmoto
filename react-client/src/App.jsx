@@ -13,8 +13,9 @@ class App extends Component {
           <Alert />
           <SideNav />
           <HomePage />
-          <Footer />
+
         </div>
+        {/* <Footer /> */}
       </Router>
     )
   }
