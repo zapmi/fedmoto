@@ -14,11 +14,15 @@
     color: #808080;
     font-family: futura;
     font-size: 12px;
+    margin-right: 40px;
     letter-spacing: 0.2em;
-    margin-left: 40px!important;
     padding: 2px 0 1px;
 }
 
 .nav-item, .nav-item-logo {
     list-style-type: none;
+}
+
+#topSideNav, #bottomSideNav {
+    padding-inline-start: 32px;
 }
