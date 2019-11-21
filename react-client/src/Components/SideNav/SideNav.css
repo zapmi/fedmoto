@@ -14,9 +14,19 @@
     color: #808080;
     font-family: futura;
     font-size: 12px;
-    margin-right: 40px;
     letter-spacing: 0.2em;
     padding: 2px 0 1px;
+}
+
+.nav-link-bottom {
+    color: rgba(17, 17, 17, .4);
+    display: block;   
+    font-family: futura;
+    font-size: 12px;
+    font-weight: 100;
+    letter-spacing: 0.01em;
+    padding: 2px 0 2px 0;
+    
 }
 
 .nav-item, .nav-item-logo {
@@ -25,4 +35,9 @@
 
 #topSideNav, #bottomSideNav {
     padding-inline-start: 32px;
+}
+
+#bottomSideNav {
+    padding-bottom: 20px; 
+   
 }

@@ -42,13 +42,13 @@ class SideNav extends Component {
                         </li>
                     </ul>
 
-                    <div>
+                    <div class="fixed-bottom">
                         <ul id="bottomSideNav">
                             <li class="nav-item">
-                                <a href="https://www.instagram.com/federalmoto/" target="_blank" class="nav-link m-2 menu-item">INSTAGRAM</a>
+                                <a href="https://www.instagram.com/federalmoto/" target="_blank" class="nav-link-bottom m-2 menu-item">INSTAGRAM→</a>
                             </li>
                             <li class="nav-item">
-                                <a href="contact.html" class="nav-link m-2 menu-item">CONTACT</a>
+                                <a href="contact.html" class="nav-link-bottom m-2 menu-item">CONTACT</a>
                             </li>
                         </ul>
                     </div>
