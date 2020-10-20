@@ -3,12 +3,33 @@
     display: block; 
 }
 
-#bigSuziPic {
-    margin-top: 52px;
-    width: 94%;
+.wintStorage {
+    background-color: black;
+    /* opacity: 75%; */
+    border: none;
+    color: ghostwhite;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    height: 61px;
+    margin-bottom: 30px;
+    margin-left: 350px;
+    margin-top: 70px;
+    /* padding-bottom: 60px; */
+    /* position: fixed; */
+    text-align: center;
+    width: 432px;
+    /* z-index: 999; */
+  }
+
+#trashHand {
+    /* margin-top: 252px; */
+    margin-left: 30px;
+    width: 92%;
     /* max-width: 87.46%; */
     height: auto;
-    padding: 13px 0 0 30px;
+    /* padding: 123px 0 0 30px; */
 }
 
 .bigSuziButton {
@@ -50,3 +71,6 @@
     height: auto;
     padding: 17px;
 }
+
+
+  

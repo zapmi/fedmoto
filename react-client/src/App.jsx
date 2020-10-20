@@ -10,7 +10,7 @@ class App extends Component {
     return (
       <Router>
         <div>
-          <Alert />
+          {/* <Alert /> */}
           <SideNav />
           <HomePage />
 

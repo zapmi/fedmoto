@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import "./HomePage.css"
 import { Link } from 'react-router-dom';
-import bigSuzi from '../Images/bigSuzi.jpg';
+import trashHand from '../Images/trashHand.jpg';
 import aboutFed from '../Images/aboutFed.jpg';
 import bikes from '../Images/bikes.jpg';
 import ig from '../Images/ig.jpg';
@@ -13,7 +13,13 @@ class HomePage extends Component {
         return (
             <div class="col-sm-10">
 
-                <img src={bigSuzi} class="img-fluid" id="bigSuziPic" alt="bigSuzi" />
+                <a href="https://www.instagram.com/sphynxdaddy" target="_blank"> <div class="wintStorage ">
+                    CLICK HERE TO BUILD YOUR WINTER STORAGE
+
+        </div>
+                </a>
+
+                <img src={trashHand} class="img-fluid" id="trashHand" alt="bigSuzi" />
                 <div>
                     <button class="bigSuziButton">CHECK OUT FED-014 "BIG SUZIE"</button>
                 </div>
