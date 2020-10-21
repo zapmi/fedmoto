@@ -9,13 +9,14 @@
     border: none;
     color: ghostwhite;
     font-family: Helvetica;
-    font-size: 14px;
-    font-weight: 400;
-    letter-spacing: 0.1em;
+    font-size: 13px;
+    font-weight: 560;
+    /* letter-spacing: 0.1em; */
     height: 61px;
     margin-bottom: 30px;
-    margin-left: 350px;
-    margin-top: 70px;
+    margin-left: 470px;
+    margin-top: 65px;
+    padding: 20px;
     /* padding-bottom: 60px; */
     /* position: fixed; */
     text-align: center;
