@@ -14,7 +14,7 @@
     "babel-preset-react": "^6.24.1",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.3.1",
-    "create-react-app": "^3.2.0",
+    "create-react-app": "^4.0.3",
     "css-loader": "^3.2.0",
     "express": "^4.17.1",
     "file-loader": "^4.2.0",
@@ -27,12 +27,12 @@
     "react-router-dom": "^5.2.0",
     "style-loader": "^1.0.0",
     "url-loader": "^2.2.0",
-    "webpack": "^4.41.2",
-    "webpack-dev-server": "^3.11.0",
+    "webpack": "^5.58.2",
+    "webpack-dev-server": "^4.3.1",
     "websocket-extensions": "^0.1.4"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^4.9.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
